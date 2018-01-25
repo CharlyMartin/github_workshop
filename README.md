@@ -4,12 +4,9 @@ This is the repository for the git & GitHub workshop of [Le Wagon Sydney](https:
 
 ### instructions
 If you're reading this, it means you've been able to successfully clone the
-repository from my GitHub account on your laptop. Congrats 👏
+repository from my GitHub account on your laptop. Congrats 👏 Create a new branch using git to update this file locally and your Github username to the list of heroes of made it that far!
 
-Create a new branch using git to update this file locally: add your team
-name to the list below. If you don't have one, make one up 😁
+Finally, push your branch to GitHub and open a Pull Request. When it's done, let me know and I'll review your code first and accept it, or not... 😉 If successful, your names will be here for eternity, among the GitHub legends. 
 
-Finally, push your branch to GitHub and open a Pull Request. When it's done, let me know and I'll review your code first and accept it, or not... 😉
-
-If successful, your names will be here for eternity, among the GitHub legends. Happy collaborating :sunglasses:
+Happy collaborating :sunglasses:
 
