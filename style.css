@@ -1,0 +1,30 @@
+body {
+  font-family: Helvetica;
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.title-container {
+  padding: 40px;
+  text-align: center;
+  background: rgba(210, 51, 51, 0.95);
+}
+
+.list-container {
+  padding: 40px;
+  text-align: center;
+}
+
+#logo {
+  width: 200px;
+}
+
+#hall_of_fame {
+  list-style: none;
+  padding-left: 0;
+  font-size: 25px;
+}

@@ -2,15 +2,14 @@
 
 This is the repository for the git & GitHub workshop of [Le Wagon Sydney](https://www.lewagon.com/sydney). Our list of workshops is available on our [Meetup page](https://www.meetup.com/Le-Wagon-Sydney-Coding-Bootcamp/).
 
-### steps to contribute to this repository
+### instructions
+If you're reading this, it means you've been able to successfully clone the
+repository from my GitHub account on your laptop. Congrats 👏
 
-1. Clone this project locally on your computer
-2. Pull master from Github to make sure you have the latest version
-3. Create a new branch (locally) to add your contribution
-4. Commit your changes with a clear and self-explanatory message
-5. Push your branch to Github
-6. Go to GitHub to open a new Pull Request
-7. Let me know when done and I'll review your code
+Create a new branch using git to update this file locally: add your team
+name to the list below. If you don't have one, make one up 😁
 
+Finally, push your branch to GitHub and open a Pull Request. When it's done, let me know and I'll review your code first and accept it, or not... 😉
 
-Happy collaborating :sunglasses:
+If successful, your names will be here for eternity, among the GitHub legends. Happy collaborating :sunglasses:
+
